@@ -7,7 +7,7 @@ Computer Science Student at BINUS University
 here is where I post my code, to either work collaboratively or free up my local storage 😆
 
 * 🌍  I'm based in Indonesia 🏝️
-* 🖥️  Come check my site here: [🕸️](http://kevicebryan.github.io/src/)
+* 🖥️  Come check my site here: [🌐](https://kevinbryan.vercel.app/)
 * ✉️  You can contact me at [kevice.bryan@binus.ac.id](mailto:kevice.bryan@binus.ac.id)
 * 🧠  I'm learning I'm learning more about web dev and web 3.0
 
