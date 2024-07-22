@@ -9,7 +9,7 @@ here is where I post my code, to either work collaboratively or free up my local
 * 🌍  I'm based in Indonesia 🏝️
 * 🖥️  Come check my site here: [🌐](https://kevinbryan.vercel.app/)
 * ✉️  You can contact me at [kevice.bryan@binus.ac.id](mailto:kevice.bryan@binus.ac.id)
-* 🧠 I'm currently exploring Swift and Apple environment
+* 🧠 I'm currently learning more about web development 🕸️
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkevinbbryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-kevin/) 
