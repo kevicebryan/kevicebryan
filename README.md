@@ -6,10 +6,9 @@ Computer Science Student at BINUS University
 
 here is where I post my code, to either work collaboratively or free up my local storage 😆
 
-* 🌍  Based in INA 🇮🇩
-* 🖥️  Portfolio Web here: [🔗](https://kevinbryan.vercel.app/)
-* ✋  Reach out here: [kevice.bryan@binus.ac.id](mailto:kevice.bryan@binus.ac.id)
-* 🧠 Currently learning more about web development ⚙️
+* 🌍 Based in INA 🇮🇩
+* 🔎 Portfolio site over here [🔗](https://kevinbryan.vercel.app/)
+* ✋ Contact me via [kevice.bryan@binus.ac.id](mailto:kevice.bryan@binus.ac.id)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkevinbbryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-kevin/) 
