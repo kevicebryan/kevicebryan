@@ -8,7 +8,7 @@ here is where I post my code, to either work collaboratively or free up my local
 
 * 🌍 Based in INA 🇮🇩
 * 🔎 Portfolio site over here [🔗](https://www.kevbry.in/)
-* ✋ Contact me via [kevice.bryan@binus.ac.id](mailto:kevinbryanreligion@gmail.com)
+* ✋ Contact me via [kevinbryanreligion@gmail.com](mailto:kevinbryanreligion@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkevinbbryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-kevin/) 
