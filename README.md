@@ -7,7 +7,7 @@ Front End Engineer
 here is where I post my code, to either work collaboratively or free up my local storage 😆
 
 * 🌍 Based in INA 🇮🇩
-* 🔎 Portfolio site over here [🔗](https://kevinbryan.vercel.app/)
+* 🔎 Portfolio site over here [🔗](https://www.kevbry.in/)
 * ✋ Contact me via [kevice.bryan@binus.ac.id](mailto:kevinbryanreligion@gmail.com)
 
 ## 🌐 Socials:
