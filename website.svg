@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="146" viewBox="0 0 150 146">
+<style>
+:root{--a:#ffffff;--b:#8b949e;--c:#f2ead8}
+@media(prefers-color-scheme:light){:root{--a:#24292f;--b:#8c959f;--c:#6b5d42}}
+.s0{stop-color:var(--a)}.s1{stop-color:var(--b)}.s2{stop-color:var(--c)}
+text{font-family:'SFMono-Regular',Menlo,Consolas,monospace;font-size:14px;white-space:pre;fill:url(#g)}
+.l{opacity:0;animation:in .5s forwards}
+@keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+</style>
+<defs><linearGradient id="g" x1="12" x2="138" gradientUnits="userSpaceOnUse"><stop class="s0" offset="0"/><stop class="s1" offset=".55"/><stop class="s2" offset="1"/></linearGradient></defs>
+<text x="12" y="22" class="l" style="animation-delay:0.0s" xml:space="preserve">╭─────────────╮</text>
+<text x="12" y="40" class="l" style="animation-delay:0.12s" xml:space="preserve">│             │</text>
+<text x="12" y="58" class="l" style="animation-delay:0.24s" xml:space="preserve">│   .-&#x27;&#x27;&#x27;-.   │</text>
+<text x="12" y="76" class="l" style="animation-delay:0.36s" xml:space="preserve">│  (  www  )  │</text>
+<text x="12" y="94" class="l" style="animation-delay:0.48s" xml:space="preserve">│   &#x27;-...-&#x27;   │</text>
+<text x="12" y="112" class="l" style="animation-delay:0.6s" xml:space="preserve">│   website   │</text>
+<text x="12" y="130" class="l" style="animation-delay:0.72s" xml:space="preserve">╰─────────────╯</text>
+</svg>
