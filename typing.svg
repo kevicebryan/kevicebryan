@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="32" viewBox="0 0 204 32">
+<style>
+:root{--a:#ffffff;--b:#8b949e;--c:#f2ead8}
+@media(prefers-color-scheme:light){:root{--a:#24292f;--b:#8c959f;--c:#6b5d42}}
+.s0{stop-color:var(--a)}.s1{stop-color:var(--b)}.s2{stop-color:var(--c)}
+text{font-family:'SFMono-Regular',Menlo,Consolas,monospace;font-size:20px;fill:url(#g);white-space:pre}
+#clip rect{animation:type 7s infinite}
+.cur{fill:var(--c);animation:move 7s infinite,blink 1s steps(1) infinite}
+@keyframes type{0%{width:0;animation-timing-function:steps(15)}35%,70%{width:180px;animation-timing-function:steps(15)}90%,100%{width:0}}
+@keyframes move{0%{x:12px;animation-timing-function:steps(15)}35%,70%{x:192px;animation-timing-function:steps(15)}90%,100%{x:12px}}
+@keyframes blink{50%{opacity:0}}
+</style>
+<defs>
+<linearGradient id="g" x1="12" x2="192" gradientUnits="userSpaceOnUse"><stop class="s0" offset="0"/><stop class="s1" offset=".55"/><stop class="s2" offset="1"/></linearGradient>
+<clipPath id="clip"><rect x="12" y="0" height="32" width="0"/></clipPath>
+</defs>
+<text x="12" y="22" clip-path="url(#clip)" xml:space="preserve">still typing...</text>
+<rect class="cur" x="12" y="6" width="2" height="20"/>
+</svg>
