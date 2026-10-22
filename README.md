@@ -12,8 +12,6 @@
 
 <br>
 
-<img src="https://kevbry.in/assets/images/profile/kanye-bear.gif" width="200" alt="kanye bear" /> <img src="https://kevbry.in/assets/images/profile/aeron-128.gif" width="64" height="64" align="middle" alt="herman miller aeron" />
-
-<sub>in need of a Herman Miller</sub>
+<img src="https://kevbry.in/assets/images/profile/kanye-bear.gif" height="32" align="middle" alt="kanye bear" /> <sub>in need of a Herman Miller</sub> <img src="https://kevbry.in/assets/images/profile/aeron-128.gif" width="32" height="32" align="middle" alt="herman miller aeron" />
 
 </div>
